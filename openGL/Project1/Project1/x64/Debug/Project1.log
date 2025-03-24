@@ -1,0 +1,3 @@
+﻿  first_try.cpp
+D:\openGL\repo\Project1\Project1\first_try.cpp(223,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> D:\openGL\repo\Project1\x64\Debug\Project1.exe

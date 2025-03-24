@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\openGL\\repo\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43201767-9C21-4B9E-B53C-FE28894A5714}|Project1\\Project1.vcxproj|D:\\openGL\\repo\\Project1\\Project1\\first_try.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43201767-9C21-4B9E-B53C-FE28894A5714}|Project1\\Project1.vcxproj|solutionrelative:Project1\\first_try.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43201767-9C21-4B9E-B53C-FE28894A5714}|Project1\\Project1.vcxproj|D:\\openGL\\repo\\Project1\\Project1\\textureClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43201767-9C21-4B9E-B53C-FE28894A5714}|Project1\\Project1.vcxproj|solutionrelative:Project1\\textureClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43201767-9C21-4B9E-B53C-FE28894A5714}|Project1\\Project1.vcxproj|D:\\openGL\\repo\\Project1\\Project1\\fragment_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43201767-9C21-4B9E-B53C-FE28894A5714}|Project1\\Project1.vcxproj|solutionrelative:Project1\\fragment_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43201767-9C21-4B9E-B53C-FE28894A5714}|Project1\\Project1.vcxproj|D:\\openGL\\repo\\Project1\\Project1\\vertex_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43201767-9C21-4B9E-B53C-FE28894A5714}|Project1\\Project1.vcxproj|solutionrelative:Project1\\vertex_shader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "first_try.cpp",
+              "DocumentMoniker": "D:\\openGL\\repo\\Project1\\Project1\\first_try.cpp",
+              "RelativeDocumentMoniker": "Project1\\first_try.cpp",
+              "ToolTip": "D:\\openGL\\repo\\Project1\\Project1\\first_try.cpp",
+              "RelativeToolTip": "Project1\\first_try.cpp",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAAABYBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T02:47:56.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vertex_shader.glsl",
+              "DocumentMoniker": "D:\\openGL\\repo\\Project1\\Project1\\vertex_shader.glsl",
+              "RelativeDocumentMoniker": "Project1\\vertex_shader.glsl",
+              "ToolTip": "D:\\openGL\\repo\\Project1\\Project1\\vertex_shader.glsl",
+              "RelativeToolTip": "Project1\\vertex_shader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T07:49:08.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fragment_shader.glsl",
+              "DocumentMoniker": "D:\\openGL\\repo\\Project1\\Project1\\fragment_shader.glsl",
+              "RelativeDocumentMoniker": "Project1\\fragment_shader.glsl",
+              "ToolTip": "D:\\openGL\\repo\\Project1\\Project1\\fragment_shader.glsl",
+              "RelativeToolTip": "Project1\\fragment_shader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T07:48:59.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "textureClass.cpp",
+              "DocumentMoniker": "D:\\openGL\\repo\\Project1\\Project1\\textureClass.cpp",
+              "RelativeDocumentMoniker": "Project1\\textureClass.cpp",
+              "ToolTip": "D:\\openGL\\repo\\Project1\\Project1\\textureClass.cpp",
+              "RelativeToolTip": "Project1\\textureClass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T06:58:06.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
